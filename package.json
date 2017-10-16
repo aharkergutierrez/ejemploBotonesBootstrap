@@ -1,0 +1,20 @@
+{
+  "name": "contactus.html",
+  "version": "1.0.0",
+  "description": "ejemplo bootstrap con botones",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "",
+    "lite": "lite-server"
+  },
+  "author": "Andres",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  }
+}
